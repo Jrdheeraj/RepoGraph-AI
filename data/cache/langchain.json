@@ -1,0 +1,16 @@
+{
+  "loc": 353257.0,
+  "function_count": 12656.0,
+  "class_count": 1822.0,
+  "avg_function_length": 19.252054361567637,
+  "dependency_count": 0.0,
+  "fan_in": 0.0,
+  "fan_out": 0.0,
+  "module_count": 2530.0,
+  "cyclomatic_complexity": 18.836831683168317,
+  "maintainability_index": 84.30920701855212,
+  "halstead_volume": 225.6342227937412,
+  "halstead_difficulty": 1.0636097211424658,
+  "halstead_effort": 1524.628876971441,
+  "repository_name": "langchain"
+}

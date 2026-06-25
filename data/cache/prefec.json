@@ -1,0 +1,16 @@
+{
+  "loc": 639926.0,
+  "function_count": 24552.0,
+  "class_count": 4193.0,
+  "avg_function_length": 19.650089605734767,
+  "dependency_count": 115.0,
+  "fan_in": 5.0,
+  "fan_out": 16.0,
+  "module_count": 1878.0,
+  "cyclomatic_complexity": 46.06279936136243,
+  "maintainability_index": 65.0255689894823,
+  "halstead_volume": 525.8440766811414,
+  "halstead_difficulty": 2.241180125600664,
+  "halstead_effort": 3321.7911327246,
+  "repository_name": "prefec"
+}

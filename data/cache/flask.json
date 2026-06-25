@@ -1,0 +1,16 @@
+{
+  "loc": 18141.0,
+  "function_count": 831.0,
+  "class_count": 137.0,
+  "avg_function_length": 15.681107099879663,
+  "dependency_count": 85.0,
+  "fan_in": 10.0,
+  "fan_out": 12.0,
+  "module_count": 83.0,
+  "cyclomatic_complexity": 32.734939759036145,
+  "maintainability_index": 68.835040936726,
+  "halstead_volume": 373.8393247950271,
+  "halstead_difficulty": 1.9195830112600591,
+  "halstead_effort": 1947.864020997683,
+  "repository_name": "flask"
+}

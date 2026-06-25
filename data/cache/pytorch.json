@@ -1,0 +1,16 @@
+{
+  "loc": 2495847.0,
+  "function_count": 97576.0,
+  "class_count": 16910.0,
+  "avg_function_length": 19.818397966713125,
+  "dependency_count": 21932.0,
+  "fan_in": 2930.0,
+  "fan_out": 93.0,
+  "module_count": 4606.0,
+  "cyclomatic_complexity": 86.579,
+  "maintainability_index": 58.14996939505714,
+  "halstead_volume": 1464.7649521022356,
+  "halstead_difficulty": 4.952217115167737,
+  "halstead_effort": 17506.993158547662,
+  "repository_name": "pytorch"
+}

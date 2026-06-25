@@ -1,0 +1,16 @@
+{
+  "loc": 511066.0,
+  "function_count": 30649.0,
+  "class_count": 9655.0,
+  "avg_function_length": 11.764755783222943,
+  "dependency_count": 8606.0,
+  "fan_in": 793.0,
+  "fan_out": 38.0,
+  "module_count": 2923.0,
+  "cyclomatic_complexity": 23.793292265571527,
+  "maintainability_index": 82.3029437743352,
+  "halstead_volume": 147.58208109167882,
+  "halstead_difficulty": 1.129490216166449,
+  "halstead_effort": 1078.239607855273,
+  "repository_name": "django"
+}

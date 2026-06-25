@@ -1,0 +1,16 @@
+{
+  "loc": 32520.0,
+  "function_count": 1668.0,
+  "class_count": 249.0,
+  "avg_function_length": 12.983213429256594,
+  "dependency_count": 726.0,
+  "fan_in": 119.0,
+  "fan_out": 36.0,
+  "module_count": 213.0,
+  "cyclomatic_complexity": 31.7196261682243,
+  "maintainability_index": 72.36359321373003,
+  "halstead_volume": 416.21201544630065,
+  "halstead_difficulty": 3.389764200568131,
+  "halstead_effort": 4431.681289354554,
+  "repository_name": "rich"
+}

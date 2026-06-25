@@ -1,0 +1,16 @@
+{
+  "loc": 402377.0,
+  "function_count": 10962.0,
+  "class_count": 990.0,
+  "avg_function_length": 25.070607553366173,
+  "dependency_count": 4803.0,
+  "fan_in": 319.0,
+  "fan_out": 35.0,
+  "module_count": 1014.0,
+  "cyclomatic_complexity": 52.237430167597765,
+  "maintainability_index": 60.10520620095809,
+  "halstead_volume": 985.2706562917609,
+  "halstead_difficulty": 5.888650363904676,
+  "halstead_effort": 11654.74164178243,
+  "repository_name": "scikit-learn"
+}

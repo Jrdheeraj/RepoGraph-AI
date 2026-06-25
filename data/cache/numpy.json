@@ -1,0 +1,16 @@
+{
+  "loc": 248114.0,
+  "function_count": 11606.0,
+  "class_count": 1764.0,
+  "avg_function_length": 15.749612269515767,
+  "dependency_count": 1109.0,
+  "fan_in": 299.0,
+  "fan_out": 17.0,
+  "module_count": 495.0,
+  "cyclomatic_complexity": 64.56072874493927,
+  "maintainability_index": 55.438715853148935,
+  "halstead_volume": 1548.9625379653403,
+  "halstead_difficulty": 5.127884408145008,
+  "halstead_effort": 23380.466242853487,
+  "repository_name": "numpy"
+}

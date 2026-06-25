@@ -1,0 +1,16 @@
+{
+  "loc": 161031.0,
+  "function_count": 6691.0,
+  "class_count": 2805.0,
+  "avg_function_length": 15.337916604393962,
+  "dependency_count": 840.0,
+  "fan_in": 167.0,
+  "fan_out": 34.0,
+  "module_count": 405.0,
+  "cyclomatic_complexity": 60.163366336633665,
+  "maintainability_index": 57.10633828284592,
+  "halstead_volume": 860.9849625810351,
+  "halstead_difficulty": 2.5296383715881534,
+  "halstead_effort": 5487.006128191995,
+  "repository_name": "pydantic"
+}

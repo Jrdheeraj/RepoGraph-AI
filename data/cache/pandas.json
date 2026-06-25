@@ -1,0 +1,16 @@
+{
+  "loc": 666225.0,
+  "function_count": 29368.0,
+  "class_count": 2246.0,
+  "avg_function_length": 16.585909833832744,
+  "dependency_count": 5787.0,
+  "fan_in": 1118.0,
+  "fan_out": 61.0,
+  "module_count": 1509.0,
+  "cyclomatic_complexity": 55.88137839628893,
+  "maintainability_index": 57.94935716673765,
+  "halstead_volume": 778.333201825023,
+  "halstead_difficulty": 3.7476988011207006,
+  "halstead_effort": 7719.734560950437,
+  "repository_name": "pandas"
+}

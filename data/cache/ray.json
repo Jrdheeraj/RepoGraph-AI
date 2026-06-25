@@ -1,0 +1,16 @@
+{
+  "loc": 1185352.0,
+  "function_count": 42755.0,
+  "class_count": 7362.0,
+  "avg_function_length": 20.75043854519939,
+  "dependency_count": 271.0,
+  "fan_in": 25.0,
+  "fan_out": 8.0,
+  "module_count": 4593.0,
+  "cyclomatic_complexity": 27.644,
+  "maintainability_index": 73.15269819404853,
+  "halstead_volume": 274.26971424303923,
+  "halstead_difficulty": 2.6143500572441236,
+  "halstead_effort": 2256.0256328320284,
+  "repository_name": "ray"
+}

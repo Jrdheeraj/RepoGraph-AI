@@ -1,0 +1,16 @@
+{
+  "loc": 1608356.0,
+  "function_count": 54970.0,
+  "class_count": 16362.0,
+  "avg_function_length": 20.739912679643442,
+  "dependency_count": 15042.0,
+  "fan_in": 1866.0,
+  "fan_out": 40.0,
+  "module_count": 4517.0,
+  "cyclomatic_complexity": 56.701,
+  "maintainability_index": 62.006952396096274,
+  "halstead_volume": 1091.4435304312096,
+  "halstead_difficulty": 6.4514835382107325,
+  "halstead_effort": 15367.122839997966,
+  "repository_name": "transformers"
+}

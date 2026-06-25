@@ -1,0 +1,16 @@
+{
+  "loc": 618203.0,
+  "function_count": 26296.0,
+  "class_count": 6840.0,
+  "avg_function_length": 17.437671128688773,
+  "dependency_count": 2126.0,
+  "fan_in": 145.0,
+  "fan_out": 33.0,
+  "module_count": 667.0,
+  "cyclomatic_complexity": 117.42007434944237,
+  "maintainability_index": 50.47764592741286,
+  "halstead_volume": 1226.5150013304576,
+  "halstead_difficulty": 4.441264394496912,
+  "halstead_effort": 11436.539947988103,
+  "repository_name": "sqlalchemy"
+}

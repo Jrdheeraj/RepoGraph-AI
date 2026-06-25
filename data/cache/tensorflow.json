@@ -1,0 +1,16 @@
+{
+  "loc": 1186308.0,
+  "function_count": 50985.0,
+  "class_count": 5985.0,
+  "avg_function_length": 16.925232911640677,
+  "dependency_count": 17551.0,
+  "fan_in": 1927.0,
+  "fan_out": 158.0,
+  "module_count": 3070.0,
+  "cyclomatic_complexity": 32.501,
+  "maintainability_index": 68.05855568771287,
+  "halstead_volume": 323.66641719272747,
+  "halstead_difficulty": 2.9196649321613677,
+  "halstead_effort": 2549.569366651984,
+  "repository_name": "tensorflow"
+}

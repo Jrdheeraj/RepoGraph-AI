@@ -1,0 +1,16 @@
+{
+  "loc": 34123.0,
+  "function_count": 2024.0,
+  "class_count": 131.0,
+  "avg_function_length": 10.717391304347826,
+  "dependency_count": 747.0,
+  "fan_in": 318.0,
+  "fan_out": 10.0,
+  "module_count": 634.0,
+  "cyclomatic_complexity": 8.026548672566372,
+  "maintainability_index": 79.09135936866885,
+  "halstead_volume": 73.19917387389728,
+  "halstead_difficulty": 0.952803206818911,
+  "halstead_effort": 543.3728481247257,
+  "repository_name": "typer"
+}

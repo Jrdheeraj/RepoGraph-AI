@@ -1,0 +1,16 @@
+{
+  "loc": 1365931.0,
+  "function_count": 52050.0,
+  "class_count": 9022.0,
+  "avg_function_length": 16.266071085494715,
+  "dependency_count": 20.0,
+  "fan_in": 5.0,
+  "fan_out": 5.0,
+  "module_count": 7446.0,
+  "cyclomatic_complexity": 23.06661294654848,
+  "maintainability_index": 79.29738548155888,
+  "halstead_volume": 232.328010395284,
+  "halstead_difficulty": 1.4631693539295525,
+  "halstead_effort": 1431.9810625590208,
+  "repository_name": "airflow"
+}

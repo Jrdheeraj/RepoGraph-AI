@@ -1,0 +1,16 @@
+{
+  "loc": 110885.0,
+  "function_count": 4497.0,
+  "class_count": 699.0,
+  "avg_function_length": 17.55637091394263,
+  "dependency_count": 1578.0,
+  "fan_in": 581.0,
+  "fan_out": 14.0,
+  "module_count": 1129.0,
+  "cyclomatic_complexity": 10.45704162976085,
+  "maintainability_index": 74.69372959286811,
+  "halstead_volume": 96.04365626882533,
+  "halstead_difficulty": 0.5997753543932914,
+  "halstead_effort": 274.57870716350567,
+  "repository_name": "fastap"
+}

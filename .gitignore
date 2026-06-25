@@ -1,0 +1,136 @@
+# ==========================================
+# RepoGraph AI - Production-Ready .gitignore
+# ==========================================
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+*$py.class
+*.so
+.Python
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+share/python-wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+MANIFEST
+
+# --- Python Virtual Environments ---
+venv/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# --- Python Testing & Coverage ---
+.tox/
+.nox/
+.coverage
+.coverage.*
+.cache
+nosetests.xml
+coverage.xml
+*.cover
+.hypothesis/
+.pytest_cache/
+.mypy_cache/
+.dmypy.json
+dmypy.json
+.pyre/
+.typeguard_db/
+
+# --- JavaScript / Node / Vite / Frontend ---
+node_modules/
+/frontend/dist/
+/frontend/build/
+/frontend/out/
+.npm
+.eslintcache
+.stylelintcache
+.vite/
+.parcel-cache
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+.yarn/install-state.gz
+
+# --- Machine Learning & Models ---
+*.pkl
+*.joblib
+*.pb
+*.onnx
+*.h5
+*.ckpt
+*.pt
+*.pth
+mlruns/
+mlruns.db
+.mlflow/
+
+# --- Jupyter Notebook ---
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# --- Secrets, Environment Variables & Configs ---
+.env
+.env.local
+.env.development.local
+.env.test.local
+.env.production.local
+*.env
+*.env.*
+*.key
+*.pem
+credentials.json
+client_secret*.json
+
+# --- Database & Temporary Storage ---
+*.db
+*.sqlite3
+backend/temp_repos/
+data/db/
+data/neo4j/
+neo4j/data/
+neo4j/logs/
+
+# --- IDEs & Editors ---
+.vscode/
+!.vscode/extensions.json
+!.vscode/recommendations.json
+.idea/
+*.suo
+*.ntvs*
+*.njsproj
+*.sln
+*.swp
+*~
+*.bak
+*.tmp
+
+# --- System Files ---
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+ehthumbs.db
+Thumbs.db
+desktop.ini
+
+# --- Logs ---
+*.log
+logs/*
+!logs/.gitkeep
