@@ -1,0 +1,6 @@
+Target,Model,R2,MAE,RMSE,Model File
+iq_score,XGBRegressor,0.9806,1.4155,2.1398,production_models/iq_score.joblib
+maintainability_risk,RandomForestRegressor,0.9985,0.766,1.3996,production_models/maintainability_risk.joblib
+technical_debt_score,XGBRegressor,0.9976,0.9643,1.4179,production_models/technical_debt_score.joblib
+architecture_quality,LGBMRegressor,0.9521,1.3592,1.8857,production_models/architecture_quality.joblib
+repograph_score,XGBRegressor,0.9886,1.25,1.899,production_models/repograph_score.joblib
